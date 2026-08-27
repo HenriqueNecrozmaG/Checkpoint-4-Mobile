@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuLable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 82764fe88bb2495419432f2c0b5156ec, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16697688064
+    m_Localized: "Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225347534848
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263691862016
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312484200448
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384743669760
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 470663987200
+    m_Localized: Volumen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 497058742272
+    m_Localized: Idiomas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576528220160
+    m_Localized: "Ingl\xE9s (EN)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601744375808
+    m_Localized: "Portugu\xE9s Brasile\xF1o (PT-BR)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 623424733184
+    m_Localized: "Espa\xF1ol (ES)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645721653248
+    m_Localized: "Franc\xE9s (FR)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1018008076288
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064707457024
+    m_Localized: 'Caminar: WASD o Flechas'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1094075973632
+    m_Localized: Correr - Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1129459122176
+    m_Localized: Saltar - Barra Espaciadora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149533061120
+    m_Localized: Pausa - Esc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1178058522624
+    m_Localized: "Volver al Men\xFA"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
