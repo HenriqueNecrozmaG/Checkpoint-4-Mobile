@@ -83,6 +83,22 @@ MonoBehaviour:
     m_Key: menu.Return
     m_Metadata:
       m_Items: []
+  - m_Id: 14732635570176
+    m_Key: mainMenu.GameTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14881520779264
+    m_Key: mainMenu.Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14940366864384
+    m_Key: creditsMenu.Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15000659984384
+    m_Key: creditsMenu.Developer
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

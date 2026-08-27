@@ -5,15 +5,17 @@ public class MenuManager : MonoBehaviour
     [SerializeField] private Canvas canvasMenu;
     [SerializeField] private Canvas canvasOptions;
     [SerializeField] private Canvas canvasControls;
+    [SerializeField] private Canvas canvasCredits;
 
     private bool isMenuOn;
 
     void Start()
     {
-        canvasMenu.enabled = false;
+        canvasMenu.enabled = true;
         canvasOptions.enabled = false;
         canvasControls.enabled = false;
-        isMenuOn = false;
+        canvasCredits.enabled = false;
+        isMenuOn = true;
     }
     
     void Update()
@@ -30,6 +32,7 @@ public class MenuManager : MonoBehaviour
                 canvasMenu.enabled = false;
                 canvasOptions.enabled = false;
                 canvasControls.enabled = false;
+                canvasCredits.enabled = false;
                 isMenuOn = false;
             }
         }
@@ -63,5 +66,17 @@ public class MenuManager : MonoBehaviour
     {
         canvasMenu.enabled = true;
         canvasControls.enabled = false;
+    }
+
+    public void OpenCreditsMenu()
+    {
+        canvasMenu.enabled = false;
+        canvasCredits.enabled = true;
+    }
+
+    public void CloseCreditsMenu()
+    {
+        canvasMenu.enabled = true;
+        canvasCredits.enabled = false;
     }
 }

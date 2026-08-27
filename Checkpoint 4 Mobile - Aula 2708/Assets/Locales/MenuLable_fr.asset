@@ -86,6 +86,22 @@ MonoBehaviour:
     m_Localized: Retour au Menu
     m_Metadata:
       m_Items: []
+  - m_Id: 14732635570176
+    m_Localized: Petit Jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14881520779264
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14940366864384
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15000659984384
+    m_Localized: "D\xE9veloppeur - Henrique Araujo Moreira"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
